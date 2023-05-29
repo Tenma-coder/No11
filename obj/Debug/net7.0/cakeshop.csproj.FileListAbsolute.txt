@@ -1,0 +1,17 @@
+C:\Users\81805\Desktop\4byte\No11\bin\Debug\net7.0\cakeshop.exe
+C:\Users\81805\Desktop\4byte\No11\bin\Debug\net7.0\cakeshop.deps.json
+C:\Users\81805\Desktop\4byte\No11\bin\Debug\net7.0\cakeshop.runtimeconfig.json
+C:\Users\81805\Desktop\4byte\No11\bin\Debug\net7.0\cakeshop.dll
+C:\Users\81805\Desktop\4byte\No11\bin\Debug\net7.0\cakeshop.pdb
+C:\Users\81805\Desktop\4byte\No11\bin\Debug\net7.0\Crc32.NET.dll
+C:\Users\81805\Desktop\4byte\No11\obj\Debug\net7.0\cakeshop.csproj.AssemblyReference.cache
+C:\Users\81805\Desktop\4byte\No11\obj\Debug\net7.0\cakeshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\81805\Desktop\4byte\No11\obj\Debug\net7.0\cakeshop.AssemblyInfoInputs.cache
+C:\Users\81805\Desktop\4byte\No11\obj\Debug\net7.0\cakeshop.AssemblyInfo.cs
+C:\Users\81805\Desktop\4byte\No11\obj\Debug\net7.0\cakeshop.csproj.CoreCompileInputs.cache
+C:\Users\81805\Desktop\4byte\No11\obj\Debug\net7.0\cakeshop.csproj.CopyComplete
+C:\Users\81805\Desktop\4byte\No11\obj\Debug\net7.0\cakeshop.dll
+C:\Users\81805\Desktop\4byte\No11\obj\Debug\net7.0\refint\cakeshop.dll
+C:\Users\81805\Desktop\4byte\No11\obj\Debug\net7.0\cakeshop.pdb
+C:\Users\81805\Desktop\4byte\No11\obj\Debug\net7.0\cakeshop.genruntimeconfig.cache
+C:\Users\81805\Desktop\4byte\No11\obj\Debug\net7.0\ref\cakeshop.dll
